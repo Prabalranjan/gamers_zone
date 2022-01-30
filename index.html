@@ -28,7 +28,7 @@
     <!-- ===============================================-->
     <!--    Stylesheets-->
     <!-- ===============================================-->
-    <link href="assets/css/theme.css" rel="stylesheet" />
+    <link href="theme.css" rel="stylesheet" />
 
   </head>
 

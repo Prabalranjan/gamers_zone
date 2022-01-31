@@ -319,7 +319,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-12 d-flex justify-content-center mt-5"> <a class="btn btn-lg btn-dark" href="viewall.html">View All </a></div>
+            <div class="col-12 d-flex justify-content-center mt-5"> <a class="btn btn-lg btn-dark" href="viewall.php">View All </a></div>
           </div>
         </div>
         <!-- end of .container-->
@@ -989,7 +989,7 @@
                             </div>
                           </div>
                         </div>
-                        <div class="col-12 d-flex justify-content-center mt-5"> <a class="btn btn-lg btn-dark" href="viewall.html">View All </a></div>
+                        <div class="col-12 d-flex justify-content-center mt-5"> <a class="btn btn-lg btn-dark" href="viewall.php">View All </a></div>
                       </div>
 
 
@@ -1173,7 +1173,7 @@
                             </div>
                           </div>
                         </div>
-                        <div class="col-12 d-flex justify-content-center mt-5"> <a class="btn btn-lg btn-dark" href="viewall.html">View All </a></div>
+                        <div class="col-12 d-flex justify-content-center mt-5"> <a class="btn btn-lg btn-dark" href="viewall.php">View All </a></div>
                       </div>
 
 
@@ -2872,7 +2872,7 @@
 
                         <!-- ############################# shop by category view all button ########################################## -->
 
-                        <div class="col-12 d-flex justify-content-center mt-5"> <a class="btn btn-lg btn-dark" href="viewall.html">View All </a></div>
+                        <div class="col-12 d-flex justify-content-center mt-5"> <a class="btn btn-lg btn-dark" href="viewall.php">View All </a></div>
                       </div>
                     </div>
                   </div>

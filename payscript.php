@@ -18,7 +18,8 @@
     <?php
 
     //  $apiKey = "YOUR_RAZORPAY_KEY";
-    $apiKey = "rzp_test_svWXixrGqcIKe4";
+    $apiKey = "rzp_live_8ZTcmXybj3Xglw";  //this is LIVE now
+    
 
     ?>
 
